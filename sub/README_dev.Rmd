@@ -1,0 +1,15 @@
+# Radiant - Business analytics using R and Shiny
+
+<!-- [![Build Status](https://travis-ci.org/radiant-rstats/radiant.png?branch=master)](https://travis-ci.org/radiant-rstats/radiant) -->
+<!-- [![Coverage Status](https://img.shields.io/coveralls/vnijs/radiant.svg)](https://coveralls.io/r/vnijs/radiant?branch=master) -->
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/radiant)](https://CRAN.R-project.org/package=radiant)
+
+```{r child='README_editable.Rmd'}
+```
+
+## License
+
+```{r child='license.md'}
+```
+
+&copy; Vincent Nijs (2018) <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://radiant-rstats.github.io/docs/images/by-sa.png" /></a>

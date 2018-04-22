@@ -1,0 +1,8 @@
+---
+title: Radiant state
+---
+
+***
+
+```{r child='app/state.md'}
+```

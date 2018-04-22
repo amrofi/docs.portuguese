@@ -1,0 +1,11 @@
+# Radiant - Business analytics using R and Shiny
+
+```{r child='tutorials_editable.md'}
+```
+
+## License
+
+```{r child='license.md'}
+```
+
+&copy; Vincent Nijs (2018) <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="imgs/by-sa.png" /></a>

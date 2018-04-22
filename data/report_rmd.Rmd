@@ -1,0 +1,9 @@
+---
+title: Report > Rmd
+---
+
+***
+
+```{r child='app/report_rmd.md'}
+```
+

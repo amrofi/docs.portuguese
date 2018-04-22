@@ -1,0 +1,40 @@
+---
+title: Example `rmarkdown` report
+---
+
+```{r setup, include = FALSE}
+library(radiant)
+knitr::opts_chunk$set(
+  comment = NA,
+  cache = FALSE,
+  message = FALSE,
+  warning = FALSE,
+  dpi = 144
+)
+```
+
+Below is the output from Radiant used to evaluate if the average price in a sample of diamonds is greater than \$1000.
+
+```{r fig.width = 7, fig.height = 7, dpi = 200}
+data("diamonds")
+result <- single_mean(
+  diamonds, var = "price", comp_value = 1000, 
+  alternative = "greater", conf_lev = 0.95
+)
+summary(result)
+plot(result)
+```
+
+### A few other rmarkdown features
+
+* You can create
+* bullet lists
+
+1. And numbered
+2. lists
+
+You can even include math:
+
+$$f(\alpha, \beta) \propto x^{\alpha-1}(1-x)^{\beta-1}$$
+
+See Rstudio's [rmarkdown](http://rmarkdown.rstudio.com/) site for more information.
