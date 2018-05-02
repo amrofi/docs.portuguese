@@ -16,12 +16,11 @@ Se você estiver interessado em usar qualquer um dos pacotes radiantes, por favo
 
 ## Tradução
 
-A tradução deste pacote de análise estatística para português do Brasil é uma contribuição voluntária dos instrutores da empresa Aquarela Advanced Analytics - www.aquare.la - e está aberto para mais colaboradores interessados em ajudar a disseminação do conhecimento de estatítica e análise de dados no país. 
+A tradução deste pacote de análise estatística para português do Brasil é uma contribuição voluntária dos instrutores da empresa Aquarela Advanced Analytics - www.aquare.la - e está aberto para mais colaboradores interessados em ajudar a disseminação do conhecimento de estatística, R e análise de dados no país. 
 
 Contatos:
   
   * Joni Hoppen - joni@aquare.la
-  * Wlademir Prates - wlademir@aquare.la
   
   
 
